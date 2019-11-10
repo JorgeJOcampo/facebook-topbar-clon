@@ -19,19 +19,19 @@ export default () => <div className="topbar">
       Crear
     </div>
     <div className="icon">
-      <FontAwesomeIcon icon={faUserFriends} fixedWidth/>
+      <FontAwesomeIcon icon={faUserFriends} size="xs"/>
     </div>
     <div className="icon right-bordered">
-    < FontAwesomeIcon icon={faCommentDots} fixedWidth />
+    < FontAwesomeIcon icon={faCommentDots} size="xs" />
     </div>
     <div className="icon">
-      <FontAwesomeIcon icon={faBell} fixedWidth  />
+      <FontAwesomeIcon icon={faBell} size="xs"  />
     </div>
     <div className="icon">
-      <FontAwesomeIcon icon={faQuestionCircle} fixedWidth  />
+      <FontAwesomeIcon icon={faQuestionCircle} size="xs"  />
     </div>
     <div className="icon">
-      <FontAwesomeIcon icon={faCaretDown} fixedWidth />
+      <FontAwesomeIcon icon={faCaretDown} size="xs" />
     </div>
   </div>
 </div>

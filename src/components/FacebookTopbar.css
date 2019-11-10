@@ -36,13 +36,13 @@
 .icon {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
+  display: flex;
 }
 
 .topbar-text {
   font-size: 1rem;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
-  height: 100%;
   display: flex;
   align-items: center;
 }
